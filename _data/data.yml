@@ -8,11 +8,10 @@ sidebar:
 
     # Profile information
     name: Yanica Said
-    tagline: Research Student
+    tagline: Research Scientist (Biomathematics)
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: yanica.said@gmail.com
     linkedin: yanica-said
     github: yanicasaid
     twitter: '@yanica96'  
@@ -22,7 +21,7 @@ education:
     info:
       - degree: PhD in Applied Mathematics and Systems Biology
         university: University of Malta & Oxford Brookes University
-        time: 2018 - Ongoing
+        time: 2018 - 2023
            
       - degree: BSc (Hons) in Mathematics and Physics
         university: University of Malta
@@ -31,9 +30,10 @@ education:
 career-profile:
     title: About
     summary:
-        I am a co-tutelle PhD student associated with the Department of Mathematics at the University of Malta 
-        and the  <a href="https://mudshark.brookes.ac.uk/Home">Cell Systems Modeling Group</a> at Oxford Brookes University. My research focuses on the 
-        application of Linear Algebra and Optimization techniques to gain insights into the underlying structure of metabolic networks.  
+        I am a member of the 2023-2024 <a href="https://www.vrtx.com/careers/career-growth-and-opportunities/vertex-fellows/e">Vertex Fellows</a> cohort at Vertex Pharmaceuticals, with a keen interest in using mathematics, statistics, and AI to facilitate the drug discovery process. 
+        I earned a collaborative PhD from the Department of Mathematics at the University of Malta 
+        and the  <a href="https://mudshark.brookes.ac.uk/Home">Cell Systems Modeling Group</a> at Oxford Brookes University in 2023, where I applied Linear Algebra and Optimization techniques to develop mathematical tools and algorithms that predict metabolic behaviour and uncover emergent relationships in metabolic networks.
+        
 
 
 projects:
@@ -44,6 +44,10 @@ publications:
     title: News
     # intro: 
     papers: 
+      - title: Attended the Vertex Fellows Drug Discovery Bootcamp at the Vertex Pharmaceuticals Boston Headquarters, October  2023.
+        
+      - title: Lectured at the InnoTargets Metabolic Modelling Workshop at the Universitat Autònoma de Barcelona, May  2023.
+     
       - title: Presented at the Malta Research Expo at the University of Malta's Valletta Campus in May 2023.
       
       - title: Presented at a seminar hosted by the Department of Biological and Medical Sciences at Oxford Brookes University in February 2023.
